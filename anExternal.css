@@ -1,0 +1,20 @@
+	body{
+		
+		background-image: url('dark_wood.png');
+	}
+	
+	p{
+			font-weight:bold;
+			color:white;
+			font-family:"Arial";	
+	}
+	
+	#Header{
+			background-color:#F7DED9;
+			text-align:center;
+			width: 300px;
+			margin-left:auto;
+			margin-right:auto;
+			margin-bottom:10px;
+			border:solid 8px black;
+	}
